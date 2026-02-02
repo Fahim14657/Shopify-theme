@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "logo": "{{ shop.brand.cover_image }}",
+    "logo": "shopify://shop_images/images.png",
     "logo_inverse": "shopify://shop_images/images.png",
     "logo_height": 36,
     "logo_height_mobile": 28,
